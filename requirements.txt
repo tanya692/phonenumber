@@ -1,0 +1,6 @@
+-r requirements/default.txt
+-r requirements/test.txt
+python -m pip install phonenumbers -r requirements.txt
+python -m pip install pandas -r requirements.txt
+python -m pip install numpy -r requirements.txt
+python -m pip install streamlit-r requirements.txt
